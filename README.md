@@ -17,7 +17,7 @@ python wallet.py boggs
 Example juju Pattern:
 ![Alt text](./docs/juju_example.png?raw=true "juju pattern")
 ```
-python wallet.py boggs
+python wallet.py juju
 ```
 ### Built With
 * [Python](https://www.python.org/) - Python 2.7.x
